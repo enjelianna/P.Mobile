@@ -6,7 +6,7 @@ void main(List<String> arguments) {
 
 // Langkah 3
   String test = "true";
-  if (test == 10) {
+  if (test == "true") {
     print("Kebenaran");
   }
 
